@@ -33,3 +33,6 @@ OCR Engine modes:
 
 # ADB iphonesubinfo
 https://stackoverflow.com/questions/27002663/adb-shell-dumpsys-iphonesubinfo-not-working-since-android-5-0-lollipop/27003016#27003016
+
+# face_net
+https://medium.com/intro-to-artificial-intelligence/one-shot-learning-explained-using-facenet-dff5ad52bd38
