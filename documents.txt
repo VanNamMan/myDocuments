@@ -39,3 +39,4 @@ https://medium.com/intro-to-artificial-intelligence/one-shot-learning-explained-
 
 # facenet using keras
 https://github.com/nyoki-mtl/keras-facenet
+https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
