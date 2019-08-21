@@ -36,3 +36,6 @@ https://stackoverflow.com/questions/27002663/adb-shell-dumpsys-iphonesubinfo-not
 
 # face_net
 https://medium.com/intro-to-artificial-intelligence/one-shot-learning-explained-using-facenet-dff5ad52bd38
+
+# facenet using keras
+https://github.com/nyoki-mtl/keras-facenet
