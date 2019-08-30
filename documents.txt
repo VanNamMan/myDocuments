@@ -6,7 +6,7 @@ https://nhtcntt.blogspot.com/2017/11/cai-at-sublime-text-3-tu-ong-nhac-lenh.html
 import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
 
 #=====OCR
-
+https://github.com/UB-Mannheim/tesseract/wiki
 Page segmentation modes:
   0    Orientation and script detection (OSD) only.
   1    Automatic page segmentation with OSD.
@@ -31,9 +31,10 @@ OCR Engine modes:
   3    Default, based on what is available.
 
 
-# ADB
+# ADB iphonesubinfo
 https://stackoverflow.com/questions/27002663/adb-shell-dumpsys-iphonesubinfo-not-working-since-android-5-0-lollipop/27003016#27003016
 
+<<<<<<< HEAD
 # setup venv python with sublime text
  1. Tools > Build System > New Build System...
  2. {
@@ -45,3 +46,14 @@ https://stackoverflow.com/questions/27002663/adb-shell-dumpsys-iphonesubinfo-not
 #YOLO
 https://github.com/AlexeyAB/darknet
 https://github.com/thtrieu/darkflow
+=======
+# face_net
+https://medium.com/intro-to-artificial-intelligence/one-shot-learning-explained-using-facenet-dff5ad52bd38
+
+# facenet using keras
+https://github.com/nyoki-mtl/keras-facenet
+https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
+
+# markdown 
+https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md#Modau
+>>>>>>> c59126b095683e13e5d2c3e1a3f46ede016a6384
