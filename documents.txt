@@ -33,3 +33,15 @@ OCR Engine modes:
 
 # ADB
 https://stackoverflow.com/questions/27002663/adb-shell-dumpsys-iphonesubinfo-not-working-since-android-5-0-lollipop/27003016#27003016
+
+# setup venv python with sublime text
+ 1. Tools > Build System > New Build System...
+ 2. {
+    "cmd": ["/Users/<username>/virtEnv1/bin/python", "$file"],
+    "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+    "selector": "source.activate"
+} 
+
+#YOLO
+https://github.com/AlexeyAB/darknet
+https://github.com/thtrieu/darkflow
