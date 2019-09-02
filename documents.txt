@@ -46,6 +46,9 @@ https://stackoverflow.com/questions/27002663/adb-shell-dumpsys-iphonesubinfo-not
 #YOLO
 https://github.com/AlexeyAB/darknet
 https://github.com/thtrieu/darkflow
+https://pjreddie.com/darknet/yolo/
+https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
+https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
 =======
 # face_net
 https://medium.com/intro-to-artificial-intelligence/one-shot-learning-explained-using-facenet-dff5ad52bd38
