@@ -49,6 +49,7 @@ https://github.com/thtrieu/darkflow
 https://pjreddie.com/darknet/yolo/
 https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
 https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
+https://github.com/ivangrov/YOLOv3-GoogleColab/blob/master/YOLOv3_GoogleColab.ipynb
 =======
 # face_net
 https://medium.com/intro-to-artificial-intelligence/one-shot-learning-explained-using-facenet-dff5ad52bd38
