@@ -65,3 +65,4 @@ https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md#Moda
 
 # transfer learning keras
 https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
+https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
