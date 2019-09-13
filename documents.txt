@@ -62,3 +62,6 @@ https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
 # markdown 
 https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md#Modau
 >>>>>>> c59126b095683e13e5d2c3e1a3f46ede016a6384
+
+# transfer learning keras
+https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
