@@ -1,0 +1,27 @@
+1.download and setup pylon software 5.2:
+
+https://www.baslerweb.com/en/sales-support/downloads/software-downloads/pylon-5-2-0-linux-x86-64-bit-debian/
+
+2.download and install swig >= 3.0.12:
+download : http://www.swig.org/download.html
+unzip -> swig-folder
+#
+sudo apt-get install libpcre3-dev
+sudo apt-get install libpcre3
+#
+cd <swig-folder>
+./configure
+make
+sudo make install
+make clean
+make distclean
+
+3.install pypylon
+#if error PYLON_ROOT
+export PYLON_ROOT=/opt/pylon5
+#
+git clone https://github.com/basler/pypylon.git
+cd pypylon
+python3 -m pip install .
+
+
